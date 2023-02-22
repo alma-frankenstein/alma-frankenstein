@@ -5,7 +5,7 @@
 These repositories are mostly sandboxing. The *really* good stuff is the curriculum in the [datastackacademy data-engineering-bootcamp](https://github.com/datastackacademy/data-engineering-bootcamp) repo. 
 
 
-![image contacts](./card_contacts.png)
+![image contacts](card_contacts.png)
 <img align="right"
-    src="./card_contacts.png" 
+    src="card_contacts.png" 
     >
