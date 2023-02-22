@@ -6,3 +6,6 @@ These repositories are mostly sandboxing. The *really* good stuff is the curricu
 
 
 ![image contacts](./card_contacts.png)
+<img align="right"
+    src="./card_contacts.png" 
+    >
